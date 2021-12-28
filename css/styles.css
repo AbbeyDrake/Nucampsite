@@ -1,3 +1,11 @@
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #901cad;
+  color: white; }
+
 body {
   font-family: "Open Sans", sans-serif; }
 
